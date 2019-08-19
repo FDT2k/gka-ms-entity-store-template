@@ -1,0 +1,1 @@
+gka-entity-store-template
